@@ -1,0 +1,187 @@
+
+2023-10-12 11:45:25,597 - INFO - Loading Model --> Whisper base
+2023-10-12 11:45:27,670 - INFO - Model loaded in 2.07 seconds
+2023-10-12 11:45:29,427 - INFO - Connected to MySQL Server version 5.7.33-0ubuntu0.18.04.1
+2023-10-12 11:45:30,170 - INFO - Here is the s3 url https://smit-sqs-asg-testing.s3.ap-south-1.amazonaws.com/142480-Himanshu-Test.mp4
+2023-10-12 11:45:50,747 - INFO - No new files in this polling cycle.
+2023-10-12 11:46:10,953 - INFO - No new files in this polling cycle.
+2023-10-12 11:46:11,587 - INFO - MySQL connection is closed
+2023-10-12 11:46:31,936 - INFO - Loading Model --> Whisper base
+2023-10-12 11:46:33,996 - INFO - Model loaded in 2.06 seconds
+2023-10-12 11:46:35,695 - INFO - Connected to MySQL Server version 5.7.33-0ubuntu0.18.04.1
+2023-10-12 11:46:36,437 - INFO - Here is the s3 url https://smit-sqs-asg-testing.s3.ap-south-1.amazonaws.com/142480-Himanshu-Test.mp4
+2023-10-12 11:46:57,014 - INFO - No new files in this polling cycle.
+2023-10-12 11:47:17,219 - INFO - No new files in this polling cycle.
+2023-10-12 11:47:26,032 - INFO - MySQL connection is closed
+2023-10-12 11:48:18,167 - INFO - Loading Model --> Whisper base
+2023-10-12 11:48:20,193 - INFO - Model loaded in 2.03 seconds
+2023-10-12 11:48:21,785 - INFO - Connected to MySQL Server version 5.7.33-0ubuntu0.18.04.1
+2023-10-12 11:48:22,130 - INFO - No new files in this polling cycle.
+2023-10-12 11:48:42,323 - INFO - No new files in this polling cycle.
+2023-10-12 11:49:02,516 - INFO - No new files in this polling cycle.
+2023-10-12 11:49:22,709 - INFO - No new files in this polling cycle.
+2023-10-12 11:49:42,903 - INFO - No new files in this polling cycle.
+2023-10-12 11:50:03,096 - INFO - No new files in this polling cycle.
+2023-10-12 11:50:23,289 - INFO - No new files in this polling cycle.
+2023-10-12 11:50:43,482 - INFO - No new files in this polling cycle.
+2023-10-12 11:51:03,659 - INFO - No new files in this polling cycle.
+2023-10-12 11:51:23,834 - INFO - No new files in this polling cycle.
+2023-10-12 11:51:44,027 - INFO - No new files in this polling cycle.
+2023-10-12 11:52:04,220 - INFO - No new files in this polling cycle.
+2023-10-12 11:52:24,413 - INFO - No new files in this polling cycle.
+2023-10-12 11:52:38,914 - INFO - MySQL connection is closed
+2023-10-12 11:55:19,015 - INFO - Loading Model --> Whisper base
+2023-10-12 11:55:21,071 - INFO - Model loaded in 2.06 seconds
+2023-10-12 11:55:22,727 - INFO - Connected to MySQL Server version 5.7.33-0ubuntu0.18.04.1
+2023-10-12 11:55:23,448 - INFO - Received file /smit-sqs-asg-testing.s3.ap-south-1.amazonaws.com/886432-test.mp4
+2023-10-12 11:55:23,448 - INFO - Downloading file from S3...
+2023-10-12 11:55:23,512 - ERROR - Error processing message https://smit-sqs-asg-testing.s3.ap-south-1.amazonaws.com/886432-test.mp4. Error: Parameter validation failed:
+Invalid bucket name "https:": Bucket name must match the regex "^[a-zA-Z0-9.\-_]{1,255}$" or be an ARN matching the regex "^arn:(aws).*:(s3|s3-object-lambda):[a-z\-0-9]*:[0-9]{12}:accesspoint[/:][a-zA-Z0-9\-.]{1,63}$|^arn:(aws).*:s3-outposts:[a-z\-0-9]+:[0-9]{12}:outpost[/:][a-zA-Z0-9\-]{1,63}[/:]accesspoint[/:][a-zA-Z0-9\-]{1,63}$"
+2023-10-12 11:55:44,073 - INFO - No new files in this polling cycle.
+2023-10-12 11:56:00,214 - INFO - MySQL connection is closed
+2023-10-12 12:03:47,903 - INFO - Loading Model --> Whisper base
+2023-10-12 12:03:49,980 - INFO - Model loaded in 2.08 seconds
+2023-10-12 12:03:51,680 - INFO - Connected to MySQL Server version 5.7.33-0ubuntu0.18.04.1
+2023-10-12 12:03:52,035 - INFO - No new files in this polling cycle.
+2023-10-12 12:04:12,234 - INFO - No new files in this polling cycle.
+2023-10-12 12:04:32,425 - INFO - No new files in this polling cycle.
+2023-10-12 12:04:52,624 - INFO - No new files in this polling cycle.
+2023-10-12 12:05:12,822 - INFO - No new files in this polling cycle.
+2023-10-12 12:05:33,021 - INFO - No new files in this polling cycle.
+2023-10-12 12:05:53,219 - INFO - No new files in this polling cycle.
+2023-10-12 12:06:13,407 - INFO - No new files in this polling cycle.
+2023-10-12 12:06:33,605 - INFO - No new files in this polling cycle.
+2023-10-12 12:06:53,799 - INFO - No new files in this polling cycle.
+2023-10-12 12:07:13,997 - INFO - No new files in this polling cycle.
+2023-10-12 12:07:34,196 - INFO - No new files in this polling cycle.
+2023-10-12 12:07:54,395 - INFO - No new files in this polling cycle.
+2023-10-12 12:08:14,594 - INFO - No new files in this polling cycle.
+2023-10-12 12:08:34,792 - INFO - No new files in this polling cycle.
+2023-10-12 12:08:34,792 - INFO - No new files for 300 seconds. Exiting.
+2023-10-12 12:08:34,970 - INFO - MySQL connection is closed
+2023-10-12 12:12:30,429 - INFO - Loading Model --> Whisper base
+2023-10-12 12:12:32,508 - INFO - Model loaded in 2.08 seconds
+2023-10-12 12:12:34,238 - INFO - Connected to MySQL Server version 5.7.33-0ubuntu0.18.04.1
+2023-10-12 12:12:34,934 - ERROR - Error processing message https://smit-sqs-asg-testing.s3.ap-south-1.amazonaws.com/125475-test.mp4. Error: URL does not start with 's3://': https://smit-sqs-asg-testing.s3.ap-south-1.amazonaws.com/125475-test.mp4
+2023-10-12 12:12:35,283 - INFO - MySQL connection is closed
+2023-10-12 13:32:05,894 - INFO - Loading Model --> Whisper base
+2023-10-12 13:32:07,930 - INFO - Model loaded in 2.04 seconds
+2023-10-12 13:32:09,671 - INFO - Connected to MySQL Server version 5.7.33-0ubuntu0.18.04.1
+2023-10-12 13:32:10,033 - INFO - No new files in this polling cycle.
+2023-10-12 13:32:30,235 - INFO - No new files in this polling cycle.
+2023-10-12 13:32:46,826 - INFO - MySQL connection is closed
+2023-10-12 13:47:34,761 - INFO - Loading Model --> Whisper base
+2023-10-12 13:47:36,789 - INFO - Model loaded in 2.03 seconds
+2023-10-12 13:47:38,494 - INFO - Connected to MySQL Server version 5.7.33-0ubuntu0.18.04.1
+2023-10-12 13:47:38,850 - INFO - No new files in this polling cycle.
+2023-10-12 13:47:59,048 - INFO - No new files in this polling cycle.
+2023-10-12 13:48:19,247 - INFO - No new files in this polling cycle.
+2023-10-12 13:48:39,445 - INFO - No new files in this polling cycle.
+2023-10-12 13:48:42,188 - INFO - MySQL connection is closed
+2023-10-12 13:49:53,347 - INFO - Loading Model --> Whisper base
+2023-10-12 13:49:55,417 - INFO - Model loaded in 2.07 seconds
+2023-10-12 13:49:57,103 - INFO - Connected to MySQL Server version 5.7.33-0ubuntu0.18.04.1
+2023-10-12 13:49:57,654 - INFO - No new files in this polling cycle.
+2023-10-12 13:50:18,041 - INFO - No new files in this polling cycle.
+2023-10-12 13:50:38,428 - INFO - No new files in this polling cycle.
+2023-10-12 13:50:49,815 - INFO - MySQL connection is closed
+2023-10-12 13:50:55,215 - INFO - Loading Model --> Whisper base
+2023-10-12 13:50:57,223 - INFO - Model loaded in 2.01 seconds
+2023-10-12 13:50:58,871 - INFO - Connected to MySQL Server version 5.7.33-0ubuntu0.18.04.1
+2023-10-12 13:50:59,771 - INFO - Received file 175655-test.mp4
+2023-10-12 13:50:59,771 - INFO - Downloading file from S3...
+2023-10-12 13:51:00,009 - INFO - Downloaded in 0.24 seconds
+2023-10-12 13:51:00,009 - INFO - Extracting audio from video...
+2023-10-12 13:51:00,584 - INFO - Audio extracted from /home/ubuntu/final/video/175655-test.mp4 to /home/ubuntu/final/audio/175655-test.mp3
+2023-10-12 13:51:00,584 - INFO - Extracted in 0.57 seconds
+2023-10-12 13:51:00,585 - INFO - File /home/ubuntu/final/video/175655-test.mp4 removed successfully.
+2023-10-12 13:51:00,585 - INFO - Transcribing audio...
+2023-10-12 13:51:01,894 - INFO - Transcribed in 1.31 seconds
+2023-10-12 13:51:03,195 - INFO - Started Translating file to spa
+2023-10-12 13:51:06,569 - INFO - Translated in 3.37 seconds
+2023-10-12 13:51:06,569 - INFO - Started Translating file to fra
+2023-10-12 13:51:09,666 - INFO - Translated in 3.10 seconds
+2023-10-12 13:51:09,666 - INFO - Started Translating file to deu
+2023-10-12 13:51:27,845 - INFO - Translated in 18.18 seconds
+2023-10-12 13:51:27,845 - INFO - Started Translating file to zho
+2023-10-12 13:51:45,868 - INFO - Translated in 18.02 seconds
+2023-10-12 13:51:48,503 - INFO - File /home/ubuntu/final/audio/175655-test.mp3 removed successfully.
+2023-10-12 13:51:48,503 - INFO - Directory /home/ubuntu/final/transcripts/175655-test removed successfully.
+2023-10-12 13:51:48,503 - INFO - Successfully uploaded file 175655-test to s3 bucket.
+2023-10-12 13:52:09,232 - INFO - No new files in this polling cycle.
+2023-10-12 13:52:19,967 - INFO - MySQL connection is closed
+2023-10-12 13:56:40,531 - INFO - Loading Model --> Whisper base
+2023-10-12 13:56:42,585 - INFO - Model loaded in 2.05 seconds
+2023-10-12 13:56:44,231 - INFO - Connected to MySQL Server version 5.7.33-0ubuntu0.18.04.1
+2023-10-12 13:56:44,588 - INFO - No new files in this polling cycle.
+2023-10-12 13:57:04,786 - INFO - No new files in this polling cycle.
+2023-10-12 13:57:24,985 - INFO - No new files in this polling cycle.
+2023-10-12 13:57:45,184 - INFO - No new files in this polling cycle.
+2023-10-12 13:57:47,507 - INFO - MySQL connection is closed
+2023-10-12 13:58:13,245 - INFO - Loading Model --> Whisper base
+2023-10-12 13:58:15,328 - INFO - Model loaded in 2.08 seconds
+2023-10-12 13:58:16,971 - INFO - Connected to MySQL Server version 5.7.33-0ubuntu0.18.04.1
+2023-10-12 13:58:17,329 - INFO - No new files in this polling cycle.
+2023-10-12 13:58:37,528 - INFO - No new files in this polling cycle.
+2023-10-12 13:58:57,716 - INFO - No new files in this polling cycle.
+2023-10-12 13:59:11,802 - INFO - MySQL connection is closed
+2023-10-12 13:59:35,445 - INFO - Loading Model --> Whisper base
+2023-10-12 13:59:37,509 - INFO - Model loaded in 2.06 seconds
+2023-10-12 13:59:39,063 - INFO - Connected to MySQL Server version 5.7.33-0ubuntu0.18.04.1
+2023-10-12 13:59:39,401 - INFO - No new files in this polling cycle.
+2023-10-12 13:59:39,570 - INFO - MySQL connection is closed
+2023-10-12 14:00:39,887 - INFO - Loading Model --> Whisper base
+2023-10-12 14:00:41,947 - INFO - Model loaded in 2.06 seconds
+2023-10-12 14:00:43,641 - INFO - Connected to MySQL Server version 5.7.33-0ubuntu0.18.04.1
+2023-10-12 14:00:44,010 - INFO - No new files in this polling cycle.
+2023-10-12 14:01:04,760 - INFO - Received file 759579-test.mp4
+2023-10-12 14:01:04,760 - INFO - Downloading file from S3...
+2023-10-12 14:01:05,019 - INFO - Downloaded in 0.26 seconds
+2023-10-12 14:01:05,019 - INFO - Extracting audio from video...
+2023-10-12 14:01:05,601 - INFO - Audio extracted from /home/ubuntu/final/video/759579-test.mp4 to /home/ubuntu/final/audio/759579-test.mp3
+2023-10-12 14:01:05,601 - INFO - Extracted in 0.58 seconds
+2023-10-12 14:01:05,601 - INFO - File /home/ubuntu/final/video/759579-test.mp4 removed successfully.
+2023-10-12 14:01:05,601 - INFO - Transcribing audio...
+2023-10-12 14:01:06,929 - INFO - Transcribed in 1.33 seconds
+2023-10-12 14:01:08,247 - INFO - Started Translating file to spa
+2023-10-12 14:01:11,717 - INFO - Translated in 3.47 seconds
+2023-10-12 14:01:11,718 - INFO - Started Translating file to fra
+2023-10-12 14:01:14,885 - INFO - Translated in 3.17 seconds
+2023-10-12 14:01:14,885 - INFO - Started Translating file to deu
+2023-10-12 14:01:33,244 - INFO - Translated in 18.36 seconds
+2023-10-12 14:01:33,244 - INFO - Started Translating file to zho
+2023-10-12 14:01:51,679 - INFO - Translated in 18.44 seconds
+2023-10-12 14:01:54,356 - INFO - File /home/ubuntu/final/audio/759579-test.mp3 removed successfully.
+2023-10-12 14:01:54,356 - INFO - Directory /home/ubuntu/final/transcripts/759579-test removed successfully.
+2023-10-12 14:01:54,357 - INFO - Successfully uploaded file 759579-test to s3 bucket.
+2023-10-12 14:02:15,303 - INFO - Received file 459900-037_Create_an_EC2_Instance.mp4
+2023-10-12 14:02:15,303 - INFO - Downloading file from S3...
+2023-10-12 14:02:15,953 - INFO - Downloaded in 0.65 seconds
+2023-10-12 14:02:15,954 - INFO - Extracting audio from video...
+2023-10-12 14:02:25,012 - INFO - Audio extracted from /home/ubuntu/final/video/459900-037_Create_an_EC2_Instance.mp4 to /home/ubuntu/final/audio/459900-037_Create_an_EC2_Instance.mp3
+2023-10-12 14:02:25,012 - INFO - Extracted in 9.06 seconds
+2023-10-12 14:02:25,024 - INFO - File /home/ubuntu/final/video/459900-037_Create_an_EC2_Instance.mp4 removed successfully.
+2023-10-12 14:02:25,024 - INFO - Transcribing audio...
+2023-10-12 14:02:53,523 - INFO - Transcribed in 28.50 seconds
+2023-10-12 14:02:54,625 - INFO - Started Translating file to spa
+2023-10-12 14:03:04,480 - INFO - Translated in 9.85 seconds
+2023-10-12 14:03:04,480 - INFO - Started Translating file to fra
+2023-10-12 14:03:15,135 - INFO - Translated in 10.66 seconds
+2023-10-12 14:03:15,135 - INFO - Started Translating file to deu
+2023-10-12 14:03:50,418 - INFO - Translated in 35.28 seconds
+2023-10-12 14:03:50,419 - INFO - Started Translating file to zho
+2023-10-12 14:04:24,009 - INFO - Translated in 33.59 seconds
+2023-10-12 14:04:26,914 - INFO - File /home/ubuntu/final/audio/459900-037_Create_an_EC2_Instance.mp3 removed successfully.
+2023-10-12 14:04:26,914 - INFO - Directory /home/ubuntu/final/transcripts/459900-037_Create_an_EC2_Instance removed successfully.
+2023-10-12 14:04:26,914 - INFO - Successfully uploaded file 459900-037_Create_an_EC2_Instance to s3 bucket.
+2023-10-12 14:04:47,493 - INFO - No new files in this polling cycle.
+2023-10-12 14:04:49,900 - INFO - MySQL connection is closed
+2023-10-21 08:40:58,375 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://172.31.5.63:5002
+2023-10-21 08:40:58,376 - INFO - [33mPress CTRL+C to quit[0m
+2023-10-21 09:11:37,288 - ERROR - 45.79.181.104 - - [21/Oct/2023 09:11:37] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00')
+2023-10-21 09:11:37,288 - INFO - 45.79.181.104 - - [21/Oct/2023 09:11:37] "[35m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03E¬ð#i|`×é[0m" HTTPStatus.BAD_REQUEST -
+2023-10-21 09:19:39,080 - INFO - 45.33.87.154 - - [21/Oct/2023 09:19:39] "[33mGET / HTTP/1.1[0m" 404 -
+2023-10-21 09:19:47,037 - INFO - 45.33.80.243 - - [21/Oct/2023 09:19:47] "[33mGET / HTTP/1.1[0m" 404 -
